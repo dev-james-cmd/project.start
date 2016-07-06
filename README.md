@@ -1,0 +1,2 @@
+# project.ianaja
+Trading Algo
