@@ -1,2 +1,2 @@
 # project.ianaja
-Trading Algo
+Thank you for viewing
